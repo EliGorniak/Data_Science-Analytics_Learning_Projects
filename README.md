@@ -1,11 +1,12 @@
 <h1 align="center">
 :books: All my Data Science Learning Projects and Courses
 </h1>
+<p align="center">
+  Here I present all courses that I've attended for my career as a Data Scientist - projects, contents and certificates.
+</p>
+ 
 
 ![](https://images.unsplash.com/photo-1501504905252-473c47e087f8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1267&q=80)
-
-### :pushpin:About
-Here I present all courses that I've attended for my career as a Data Scientist - projects, contents and certificates.
 
 --- 
 
