@@ -15,7 +15,7 @@
 
 
 ---
-### Courses & Projects :books::chart_with_upwards_trend:
+### :books: Courses & Projects :chart_with_upwards_trend:
 
 | Course  |  Date  | Duration | Institution | Projects | Certificate |
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
