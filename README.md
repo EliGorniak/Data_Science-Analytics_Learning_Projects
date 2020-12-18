@@ -20,6 +20,6 @@
 | Course  |  Date  | Duration | Institution | Projects | Certificate |
 | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
 | **Data Science Bootcamp** |  Sept - Nov/2020 | 148 hours | IGTI Brazil | link | link |
-| **Python Fundamentals** |  Dec/2020 | 05 hours | IA Expert Academy | https://git.io/JI2tY | link |
+| **Python Fundamentals** |  Dec/2020 | 05 hours | IA Expert Academy | https://git.io/JI2tY | https://git.io/JLRc9 |
 
 
