@@ -24,5 +24,7 @@
 | **Python Fundamentals** |  Dec/2020 | 05 hours | IA Expert Academy | https://git.io/JI2tY | https://git.io/JLRc9 |
 | **Python Data Structures & Algoritms** |  Dec/2020 | 18 hours | IA Expert Academy | https://git.io/JLRAi | link |
 | **KDD Cup 2009 Kaggle ML** |  Jan/2021 | 07 hours | IA Expert Academy | https://git.io/JLNUE | link |
+| **Probability Theory** |  Jan/2021 | 60 hours | University of São Paulo/Brazil | https://git.io/JLAC2 | link |
+
 
 
