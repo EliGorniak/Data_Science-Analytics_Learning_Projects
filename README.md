@@ -1,8 +1,8 @@
 <h1 align="center">
-:books: All my Data Science Learning Courses and Projects
+Data Science Learning Courses and Projects
 </h1>
 <p align="center">
-  Here I present all courses that I've attended for my career as a Data Scientist - projects, contents and certificates.
+Courses, projects and certificates in Data Science.
 </p>
  
 
