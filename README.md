@@ -1,5 +1,5 @@
 <h1 align="center">
-Data Science Learning Courses and Projects
+Data Science Learning Courses & Projects
 </h1>
 <p align="center">
 Courses, projects and certificates in Data Science.
