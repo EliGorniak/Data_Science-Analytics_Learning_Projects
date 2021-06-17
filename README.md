@@ -27,4 +27,5 @@ Courses, projects and certificates in Data Science.
 | **Probability Theory** |  Jan/2021 | 60 hours | University of São Paulo/Brazil | https://git.io/JLAC2 | link |
 
 
-
+---
+![](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=EliGorniak&repo=Data_Science_Learning_Projects&countColorcountColor&countColor=%237B1E7A)
