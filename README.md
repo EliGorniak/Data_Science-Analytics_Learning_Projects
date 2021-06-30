@@ -18,13 +18,15 @@ Courses, projects and certificates in Data Science.
 ---
 ### :books: Courses & Projects :chart_with_upwards_trend:
 
-| Course  |  Date  | Duration | Institution | Projects | Certificate |
-| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| **Data Science Bootcamp** |  Sept - Nov/2020 | 148 hours | IGTI Brazil | link | link |
-| **Python Fundamentals** |  Dec/2020 | 05 hours | IA Expert Academy | https://git.io/JI2tY | https://git.io/JLRc9 |
-| **Python Data Structures & Algoritms** |  Dec/2020 | 18 hours | IA Expert Academy | https://git.io/JLRAi | link |
-| **KDD Cup 2009 Kaggle ML** |  Jan/2021 | 07 hours | IA Expert Academy | https://git.io/JLNUE | link |
-| **Probability Theory** |  Jan/2021 | 60 hours | University of São Paulo/Brazil | https://git.io/JLAC2 | link |
+| Course  |  Date  | Duration | Institution | Projects | Certificate | Status | 
+| ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| **AWS Machine Learning Scholarship Program** |  June - Oct/2021 | 15 hours | Udacity & AWS | https://git.io/JcZau | link | In progress | 
+| **Data Science Bootcamp** |  Sept - Nov/2020 | 148 hours | IGTI Brazil | link | link | Completed | 
+| **Python Fundamentals** |  Dec/2020 | 05 hours | IA Expert Academy | https://git.io/JI2tY | https://git.io/JLRc9 | Completed |
+| **Python Data Structures & Algoritms** |  Dec/2020 | 18 hours | IA Expert Academy | https://git.io/JLRAi | link | In progress |
+
+
+
 
 
 ---
